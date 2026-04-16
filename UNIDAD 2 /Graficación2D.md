@@ -84,3 +84,6 @@ Las fuentes modernas suelen construirse mediante vectores, lo que permite que lo
 El proceso de creación de una fuente incluye el diseño de glifos (formas individuales de cada carácter), el ajuste de espaciado entre letras (kerning) y la definición de métricas generales que controlan la alineación y proporción del texto. Una vez finalizada, la fuente se exporta en formatos estándar como TrueType u OpenType, que permiten su uso en sistemas operativos y aplicaciones.
 
 Las fuentes de texto son fundamentales en diseño gráfico, comunicación visual y tecnología, ya que influyen directamente en la legibilidad, la estética y la identidad visual de cualquier contenido escrito.
+#  Referencias Bibliográfica
+* Client challenge. (s. f.). https://es.scribd.com/document/365919093/Unidad-2-Graficacion-2d-Jose-Birrueta-Castro
+* Ramírez, O. S. (2020, 10 octubre). Transformación bidimensional. https://graficacion2d.blogspot.com/2020/10/transformacion-bidimensional.html
